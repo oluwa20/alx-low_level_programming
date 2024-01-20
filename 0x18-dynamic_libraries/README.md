@@ -1,1 +1,2 @@
-Solutions to 0x18-dynamic_libraries project
+Solution To Alx
+0x18-dynamic libraries
